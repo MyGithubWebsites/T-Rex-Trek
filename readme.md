@@ -13,7 +13,6 @@ No dinosaurs were harmed in the development of this game. Neither was any JavaSc
 | Players | 1 |
 | HTML Lines | 56 |
 | CSS Lines | 1,084 (455 SCSS) |
-| Demo | [CodePen](https://codepen.io/alvaromontoro/full/NWbrbzO) |
 
 ## Screenshot
 
